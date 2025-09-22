@@ -8,10 +8,6 @@ El formulario permite registrar dos tipos de inscripciones:
 
 ---
 
-## 📂 Estructura del Proyecto
-
----
-
 ## 🖥️ Tecnologías utilizadas
 
 - ☕ **Java 17+**
